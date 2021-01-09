@@ -101,10 +101,10 @@ const DEFAULT_SETTINGS = {
     clear_cache_on_logout: false,
     connection_options: {},
     credentials_url: null, // URL from where login credentials can be fetched
-    discover_connection_methods: true,
+    discover_connection_methods: false,
     geouri_regex: /https\:\/\/www.openstreetmap.org\/.*#map=[0-9]+\/([\-0-9.]+)\/([\-0-9.]+)\S*/g,
     geouri_replacement: 'https://www.openstreetmap.org/?mlat=$1&mlon=$2#map=18/$1/$2',
-    i18n: 'en',
+    i18n: 'pt_BR',
     idle_presence_timeout: 300, // Seconds after which an idle presence is sent
     jid: undefined,
     keepalive: true,

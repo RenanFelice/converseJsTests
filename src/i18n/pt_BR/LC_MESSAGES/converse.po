@@ -497,7 +497,7 @@ msgstr "Meus contatos"
 
 #: dist/converse-no-dependencies.js:66536
 msgid "Pending contacts"
-msgstr "Contados pendentes"
+msgstr "Contatos pendentes"
 
 #: dist/converse-no-dependencies.js:66537
 msgid "Contact requests"
